@@ -1,2 +1,2 @@
 # processing-first-projects
- My first experiments with coding and generative art using Processing.
+ My first experiments with coding and generative art using Processing. (repo in progress)
