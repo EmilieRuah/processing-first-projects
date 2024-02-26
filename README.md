@@ -17,4 +17,4 @@ https://medium.com/processing-foundation/a-modern-prometheus-59aed94abe85
 <img alt="code generated birds flying on a pale blue sky" src="https://github.com/EmilieRuah/processing-first-projects/blob/main/looking_for_murmuration/looking_for_murmuration.jpg" width="200" height="200">
 
 ## ChacanEye
-<img alt="code generated triple chacana with an eye in the middle" src="https://github.com/EmilieRuah/processing-first-projects/blob/main/ChacanEye/chacaneye.jpg">
+<img alt="code generated triple chacana with an eye in the middle" src="https://github.com/EmilieRuah/processing-first-projects/blob/main/ChacanEye/chacaneye.jpg" width="200" height="200">
